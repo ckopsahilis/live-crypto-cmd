@@ -4,9 +4,7 @@ A real-time cryptocurrency dashboard built with vanilla HTML, CSS, and JavaScrip
 
 ## Demo Video
 
-<video src="https://raw.githubusercontent.com/ckopsahilis/live-crypto-cmd/main/Crypto_Cmd_UI.mp4" controls="controls" width="100%"></video>
-
-If the embedded player doesn’t load in your viewer, open the video directly: [Crypto_Cmd_UI.mp4](./Crypto_Cmd_UI.mp4)
+https://github.com/user-attachments/assets/3163ef08-25b2-47e8-b6fd-06af191ea68d
 
 ---
 
